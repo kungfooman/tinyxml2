@@ -16,3 +16,4 @@ tinyxml2/temp/
 *.o
 *.vc.db
 *.vc.opendb
+build
